@@ -18,13 +18,11 @@ Create a logistic regression model to provide a lead score between 0 and 100 to 
 - Data Preparation
 - Model Building
 - Model Evaluation: Train / Test Dataset
-- (Analysis and visualization in Tableau)
-- (Create interactive dashboard in Tableau)
-- (Presentation with Google Slides)
+- Presentation with Google Slides
 
 ### Data Sources
 - Kaggle Databases
-- tba
+
 
 ### Links
 - tba
