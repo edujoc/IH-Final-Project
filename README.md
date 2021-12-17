@@ -24,6 +24,6 @@ Create a logistic regression model to provide a lead score between 0 and 100 to 
 - Kaggle Databases
 
 
-### Links
-- tba
+### Contact
+edudarrelljockers@gmail.com
 
